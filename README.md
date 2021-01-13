@@ -21,3 +21,12 @@ Hi, I'm Douglas Franklin, a passionate self-taught frontEnd web developer from N
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://i.pinimg.com/originals/12/5c/e0/125ce0baff3271761ca61843eccf7985.jpg"><code>
+<br>
+  
+  *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+
+![idamezhim's github stats](https://github-readme-stats.vercel.app/api?username=idamezhim&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idamezhim)](https://github.com/idamezhim/github-readme-stats)
+
+[![idamezhim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=idamezhim)](https://github.com/idamezhim/github-readme-stats)
