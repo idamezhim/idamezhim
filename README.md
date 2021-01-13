@@ -1,4 +1,4 @@
-### Hi there 👋### @idamezhim on Twitter
+### Hi there 👋
 
 
 - 🔭 I’m currently working on TaskMan.ng
