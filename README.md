@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**idamezhim/idamezhim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋### @idamezhim on Twitter
 
 
 - 🔭 I’m currently working on TaskMan.ng
@@ -12,4 +9,3 @@
 - 📫 How to reach me: @idamezhim
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a Night Crawler
--->
