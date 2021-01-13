@@ -28,5 +28,4 @@ Hi, I'm Douglas Franklin, a passionate self-taught frontEnd web developer from N
 ![idamezhim's github stats](https://github-readme-stats.vercel.app/api?username=idamezhim&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idamezhim)](https://github.com/idamezhim/github-readme-stats)
-
-[![idamezhim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=idamezhim)](https://github.com/idamezhim/github-readme-stats)
+<br>
