@@ -11,8 +11,8 @@ Hi, I'm Douglas Franklin, a passionate self-taught frontEnd web developer from N
 - 🌱 I’m currently learning Golang and React
 - 👯 I’m looking to collaborate on Open Source Projects and Communities
 - 🤔 I’m looking for help with Public Speaking
-- 💬 Ask me about Tech and Strategy
-- 📫 How to reach me: @idamezhim
+- 💬 Ask me about any thing Tech and Strategy [here](https://github.com/idamezhim/idamezhim/issues)
+- 📫 How to reach me: [here](https://twitter.com/idamezhim)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a Night Crawler<br>
 **Languages and Tools:**  
